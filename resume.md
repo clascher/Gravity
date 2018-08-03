@@ -25,7 +25,7 @@ permalink: /resume/
 
 #### Gravelly Hill Middle School, Efland, NC
 
-*AVID Classroom Volunteer, Spring 2018
+*AVID Classroom Volunteer, Spring 2018*
 
 ### Leadership Experience
 
