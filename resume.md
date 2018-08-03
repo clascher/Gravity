@@ -9,7 +9,7 @@ permalink: /resume/
 #### University of North Carolina at Chapel Hill
 
 * *Bachelor of Arts in Germanic and Slavic Languages and Literatures, German Literature and Culture Option; Bachelor of Science in Information Science; Mathematics Minor*.  Degrees expected May 2019
-* GPA 3.85, Dean's List, Fall 2015, Spring 2016, Fall 2016, Spring 2017, Fall 2017
+* GPA 3.85; Dean's List, Fall 2015, Spring 2016, Fall 2016, Spring 2017, Fall 2017
 
 ### Work Experience
 
@@ -41,7 +41,7 @@ permalink: /resume/
 
 #### Carolina Choir, UNC-CH
 
-* *Co-Manager, Fall 2018-present*
+*Co-Manager, Fall 2018-present*
 
 ### Skills
 
