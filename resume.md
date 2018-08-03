@@ -15,17 +15,17 @@ permalink: /resume/
 
 #### Eno River Unitarian Universalist Fellowship, Chapel Hill NC
 
-*Nursery Aide, August 2017-present*
+* *Nursery Aide, August 2017-present*
 
 #### Davis Library Miroforms Department, Chapel Hill, NC
 
-*Student Assistant, August 2017-present*
+* *Student Assistant, August 2017-present*
 
 ### Volunteering
 
 #### Gravelly Hill Middle School, Efland, NC
 
-*AVID Classroom Volunteer, Spring 2018*
+* *AVID Classroom Volunteer, Spring 2018*
 
 ### Leadership Experience
 
@@ -41,7 +41,7 @@ permalink: /resume/
 
 #### Carolina Choir, UNC-CH
 
-*Co-Manager, Fall 2018-present*
+* *Co-Manager, Fall 2018-present*
 
 ### Skills
 
