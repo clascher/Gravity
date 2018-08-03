@@ -2,6 +2,7 @@
 layout: archive
 title: Resume
 permalink: /resume/
+categories: resume
 ---
 
 ### Education
@@ -49,4 +50,4 @@ permalink: /resume/
 * Typing peed of 85 words per minute
 * Familiar with markup languages (HTML, Markdown)
 * Experience working in the command shell
-* Familiar with microforms reader/printers and scanners
+* Familiar with microforms reader/printers and scanners and Sudoc classification system
