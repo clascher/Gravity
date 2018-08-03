@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: Resume
 permalink: /resume/
-categories: resume
 ---
 
 ### Education
